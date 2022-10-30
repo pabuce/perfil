@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">A passionate computer science</h3>
+<h3 align="center">A passionate computer science and Cybersecurity student</h3>
 
 <p align="left"> <a href="https://twitter.com/pab_uce" target="blank"><img src="https://img.shields.io/twitter/follow/pab_uce?logo=twitter&style=for-the-badge" alt="pab_uce" /></a> </p>
 
