@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on [Universidad Pablo de Olavide](www.upo.es)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **HTML&CSS**
 
 - 👯 I’m currently collaborating on [Cruz Roja Española](www.cruzroja.es)
 
