@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/pab_uce" target="blank"><img src="https://img.shields.io/twitter/follow/pab_uce?logo=twitter&style=for-the-badge" alt="pab_uce" /></a> </p>
 
-- 🔭 I’m currently studying on [Universidad Pablo de Olavide](www.upo.es)
+- 🔭 I’m currently finishing my studies on [Universidad Pablo de Olavide](www.upo.es)
 
 - 🌱 I’m currently learning **HTML&CSS**
 
-- 👯 I’m currently collaborating on [Cruz Roja Española](www.cruzroja.es)
+- 👯 I’m currently working on [Fujitsu](global.fujitsu/es)
 
 - 💬 Ask me about **Cybersecurity, Cloud Computing, Web Development**
 
-- 📫 How to reach me **pablo.ucedafuentes@studentambassadors.com** 
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
