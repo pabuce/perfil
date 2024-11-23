@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently finishing my studies on [Universidad Pablo de Olavide](www.upo.es)
 
-- 🌱 I’m currently learning **HTML&CSS**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m currently working on [Fujitsu](global.fujitsu/es)
 
